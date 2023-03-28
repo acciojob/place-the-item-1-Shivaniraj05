@@ -1,8 +1,7 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	display: flex;
-	padding: 20px;
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
